@@ -1,5 +1,5 @@
 # I AM Komeil Mehranfar 👋
-Software Engineer with more than 6 years of experience in front-end development, mostly React.js and Node.js. eager to learn and share. Skilled in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, solving problems, business challenges, and coding. interested in JavaScript full-stack development.
+I am a software engineer with over 7 years of expertise, specializing in Typescript, React.js, and Node.js. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/komeilmehranfar/)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/komeil_mehranfar)
